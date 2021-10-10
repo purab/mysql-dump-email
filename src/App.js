@@ -1,12 +1,12 @@
 
 import './App.css';
 
-import EffectTutorial from './UseEffect/EffectTutorial';
+import RefSample from './UseRef/RefSample';
 
 function App() {
   return (
     <div className="App">
-      <EffectTutorial />
+      <RefSample />
     </div>
   );
 }
