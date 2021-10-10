@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import UseState from './UseState/UseState';
+
+import UseReducerTutorial from './UseReducer/UseReducerTutorial';
 
 function App() {
   return (
     <div className="App">
-      <UseState />
+      <UseReducerTutorial />
     </div>
   );
 }
