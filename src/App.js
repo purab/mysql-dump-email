@@ -1,12 +1,12 @@
-import logo from './logo.svg';
+
 import './App.css';
 
-import UseReducerTutorial from './UseReducer/UseReducerTutorial';
+import EffectTutorial from './UseEffect/EffectTutorial';
 
 function App() {
   return (
     <div className="App">
-      <UseReducerTutorial />
+      <EffectTutorial />
     </div>
   );
 }
