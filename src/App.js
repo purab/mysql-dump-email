@@ -1,12 +1,13 @@
 
 import './App.css';
+import LayoutSample from './UseLayout/LayoutSample';
 
-import RefSample from './UseRef/RefSample';
+
 
 function App() {
   return (
     <div className="App">
-      <RefSample />
+      <LayoutSample/>
     </div>
   );
 }
