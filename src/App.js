@@ -1,12 +1,13 @@
 
 import './App.css';
 import ContextSample from './UseContext/ContextSample';
+import MemoSample from './UseMemo/MemoSample';
 
 
 function App() {
   return (
     <div className="App">
-      <ContextSample />
+      <MemoSample/>
     </div>
   );
 }
