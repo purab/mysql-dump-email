@@ -1,13 +1,13 @@
 
 import './App.css';
-import ContextSample from './UseContext/ContextSample';
-import MemoSample from './UseMemo/MemoSample';
+import CallBackSample from './UseCallBack.js/CallBackSample';
+
 
 
 function App() {
   return (
     <div className="App">
-      <MemoSample/>
+      <CallBackSample />
     </div>
   );
 }
