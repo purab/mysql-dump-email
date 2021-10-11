@@ -1,13 +1,11 @@
 
 import './App.css';
-import LayoutSample from './UseLayout/LayoutSample';
-
-
+import ImperativeHandle from './UseImperativeHandle/ImperativeHandle';
 
 function App() {
   return (
     <div className="App">
-      <LayoutSample/>
+      <ImperativeHandle />
     </div>
   );
 }
