@@ -1,11 +1,12 @@
 
 import './App.css';
-import ImperativeHandle from './UseImperativeHandle/ImperativeHandle';
+import ContextSample from './UseContext/ContextSample';
+
 
 function App() {
   return (
     <div className="App">
-      <ImperativeHandle />
+      <ContextSample />
     </div>
   );
 }
